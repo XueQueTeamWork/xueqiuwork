@@ -88,8 +88,7 @@
 
 
 
-- [ x] 列表 展示 3.16
-3.18 [1/2]
+- [ ] 列表 展示 
 list：
 ![image](https://user-images.githubusercontent.com/51170034/111497827-63809e00-877c-11eb-8684-2e080b1f5fd3.png)
 
@@ -99,34 +98,32 @@ list：
 
 
 
-- [ x] 
+- [ test] 
 
 菜单栏
 
-- [ x] 
+- [ test] 
 
 饼图
 
 
-- [ x]
+- [ test]
 
 增删改查
 
-- [ x] 
+- [ test] 
 
 标签
 
-- [ x]
+- [ test]
 
 爬虫
 
-- [ x]
+- [ test]
 
 导入数据
 
-- [ x] 
-- [ x] 
-- [ x]
+
 
 code review
 
