@@ -28,7 +28,6 @@
 
 流程图：
 
-![image](https://user-images.githubusercontent.com/51170034/111061125-b3d9d080-84dc-11eb-9db1-f76bcae7a4e7.png)
 
 
 ----------
@@ -62,8 +61,6 @@
 
 
 
-![image](https://user-images.githubusercontent.com/51170034/111254931-1522b080-8651-11eb-88b8-b5146e5e5ba8.png)
-![image](https://user-images.githubusercontent.com/51170034/111254956-1d7aeb80-8651-11eb-88c3-a5b0e273698e.png)
 
 ------------------
 
@@ -75,22 +72,16 @@
 首页：
 
 
-![image](https://user-images.githubusercontent.com/51170034/111258695-739f5d00-8658-11eb-80b0-7fe945dbf24f.png)
-
-
-
 
 - [√]
 验证输入的股票id是否正确：
-![image](https://user-images.githubusercontent.com/51170034/111495842-b78a8300-877a-11eb-92d5-428deb168472.png)
 
 符合查询资格才能开始爬取数据。
 
 
 
 - [ ] 列表 展示 
-list：
-![image](https://user-images.githubusercontent.com/51170034/111497827-63809e00-877c-11eb-8684-2e080b1f5fd3.png)
+
 
 
 
@@ -98,28 +89,22 @@ list：
 
 
 
-- [ test] 
 
 菜单栏
 
-- [ test] 
 
 饼图
 
 
-- [ test]
 
 增删改查
 
-- [ test] 
 
 标签
 
-- [ test]
 
 爬虫
 
-- [ test]
 
 导入数据
 
@@ -127,7 +112,7 @@ list：
 
 code review
 
-- [ x] 
+
 
 
 测试
